@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.section {
+  height: 100vh;
+  width: 100vw;
+}
+.scroll-section {
+  opacity: 0;
+  transition: all 1s ease-in-out;
+}
