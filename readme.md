@@ -2,9 +2,9 @@
 
 Simple package for show on scroll by intersection observer
 
-## Usage
-
 ![Flowchart Diagram Image](Flowchart.svg "Flowchart Diagram")
+
+## Usage
 
 - First you should add `scroll-section` to the element you want to fade in on scroll.
 - Use these datasets properties to overwrite the default options:
